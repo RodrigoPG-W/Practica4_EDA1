@@ -1,2 +1,2 @@
-# Practica4_EDA1
+# Practicas_EDA1
 Primer repositorio.
